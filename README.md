@@ -2,6 +2,6 @@
 
 # Welcome to my Github profile
 
-👀 I’m interested in web development 
-📫 abderrazaqoussimbarek@gmail.com
-📍 •Morocco 🇲🇦
+- 👀 I’m interested in web development 
+- 📫 abderrazaqoussimbarek@gmail.com
+- 📍 •Morocco 🇲🇦
