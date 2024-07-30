@@ -7,7 +7,7 @@ Front End Web Developer
 -----------------------
 
 * 🌍  I'm based in Rabat
-* 🖥️  See my portfolio at [abderrazaqoussi](abderrazaqoussi.vercel.app)
+* 🖥️  See my portfolio at [abderrazaqoussi](https://abderrazaqoussi.vercel.app)
 * ✉️  You can contact me at [abderrazaqoussimbarek@gmail.com](mailto:abderrazaqoussimbarek@gmail.com)
 * 🧠  I'm learning Next.js
 * 🤝  I'm open to collaborating on on any web dev project
