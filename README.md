@@ -18,7 +18,7 @@ Front End Web Developer
 
 ## Skills
 ### Languages
-[![Languages](https://skillicons.dev/icons?i=html,css,js,ts,py,go)]()
+[![Languages](https://skillicons.dev/icons?i=html,css,js,ts,py,java)]()
 
 ## Libraries
 [![Libraries](https://skillicons.dev/icons?i=nodejs,react,nextjs,express,redux,materialui,sass)]()
